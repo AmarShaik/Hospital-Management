@@ -1,0 +1,13 @@
+.patients-root{font-family:Inter,system-ui,Arial,Helvetica,sans-serif}
+.patients-search-wrap{width:100%}
+.patients-search{max-width:520px}
+.patients-grid{margin-top:0}
+.patient-card{border-radius:14px}
+.patient-avatar{width:64px;height:64px;border-radius:50%;object-fit:cover;box-shadow:0 6px 18px rgba(2,6,23,0.06)}
+.patient-detail-card{border-radius:22px;background:#fff}
+.patient-detail-avatar{width:132px;height:132px;flex-shrink:0}
+.patient-card.highlight{border-color:var(--accent);box-shadow:0 12px 36px rgba(37,99,235,0.08)}
+.patient-card .p-name a,.patient-name-link{color:var(--text);text-decoration:none}
+.patient-left{min-width:90px}
+.patient-details-link{display:inline-flex;align-items:center;justify-content:center}
+.no-results{color:#475569}

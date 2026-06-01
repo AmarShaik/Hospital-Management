@@ -1,0 +1,15 @@
+.doctors-page{font-family:Inter,system-ui,Arial,Helvetica,sans-serif}
+.doctors-header h1{color:#0f172a}
+.search-row{width:100%}
+.search-input{max-width:520px}
+.doctor-card{border-radius:14px}
+.doctor-avatar{width:88px;height:88px;object-fit:cover;box-shadow:0 6px 18px rgba(2,6,23,0.06)}
+.doctor-detail-card{border-radius:22px;background:#fff}
+.doctor-detail-avatar{width:132px;height:132px;flex-shrink:0}
+.doctor-info{width:100%}
+.doctor-name{margin:0;color:#0f172a}
+.doctor-specialty{color:#475569}
+.card-actions{margin-top:12px}
+.no-results{color:#475569}
+
+@media (min-width:900px){.doctor-avatar{width:96px;height:96px}}
